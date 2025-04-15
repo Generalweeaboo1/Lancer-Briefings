@@ -135,15 +135,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": "Kaldras IV",
         "year": "5014u",
-        "system": "Ardennes-3",
+        "system": "Karrakin",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerTitle": "Union",
+        "headerSubtitle": "6th Annimate Division",
+        "subheaderTitle": "F Company",
+        "subheaderSubtitle": "The Baronic 3rd Miltia",
       },
       "options":{
         "eventsMarkdownPerMission": true
